@@ -1,8 +1,5 @@
 ## 👋 Hi, I’m ChandrashekharSuthar
 
----
-
-
 - 👀 I’m interested in Android App Development
 - 🌱 I’m currently learning Jetpack Compose
 - 💞️ I’m looking to collaborate on Android Projects
