@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Chandrashekhar Suthar
+## 👋 Hi, I’m Chandra Shekhar Suthar
 
 - 👀 I’m interested in Android App Development
 - 🌱 I’m currently learning Jetpack Compose
