@@ -9,7 +9,7 @@
 
 <a href="https://www.buymeacoffee.com/ChandrashekharSuthar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HarshAndroid&show_icons=true&count_private=true" height=200 />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ChandrashekharSuthar&show_icons=true&count_private=true" height=200 />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ChandrashekharSuthar&" alt="ChandrashekharSuthar" /></p>
 
 
