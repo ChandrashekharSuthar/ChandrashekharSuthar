@@ -26,7 +26,6 @@
 <h2>My Stats 📈</h2>
 <p>
 <img  src="https://github-readme-stats-sigma-five.vercel.app/api?username=ChandrashekharSuthar&show_icons=true&count_private=true" height=200 />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ChandrashekharSuthar&show_icons=true&locale=en&layout=compact" alt="ChandrashekharSuthar" height = 200 />
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ChandrashekharSuthar&" alt="ChandrashekharSuthar"  height=200/>
 </p>  
 
