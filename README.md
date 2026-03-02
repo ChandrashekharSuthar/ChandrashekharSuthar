@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Jetpack Compose and Flutter
 - 💞️ I’m looking to collaborate on Open Source Android Projects
 - 🎓 Education: B.Sc Computer Science, M.Sc Computer Science (ongoing)
-- 📫 How to reach me : shekharsuthar1030@gmail.com
+- 📫 How to reach me : chandrashekharsuthar.work@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have a building Mind
 
