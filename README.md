@@ -1,13 +1,15 @@
-# Hi 👋, I’m Chandra Shekhar Suthar
-<h3>I am Currently Developing Mobile Applications for Android as Freelance App Developer via Fiverr</h3>
+# Hi, I’m Chandra Shekhar Suthar
 
-- 👀 I’m interested in Android App Development
-- 🌱 I’m currently learning Jetpack Compose and Flutter
-- 💞️ I’m looking to collaborate on Open Source Android Projects
-- 🎓 Education: B.Sc Computer Science, M.Sc Computer Science (ongoing)
-- 📫 How to reach me : chandrashekharsuthar.work@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have a building Mind
+### Mobile App Developer | Freelance Android Developer
+
+I build scalable, high-performance mobile applications that help businesses and startups turn ideas into real products and MVPs.
+
+- 💼 Freelance Android Developer on Fiverr
+- 🚀 Focused on clean architecture and production-ready apps
+- 🌱 Currently exploring IOS and Flutter
+- 🤝 Open to collaborating on Android open-source projects
+- 🎓 B.Sc Computer Science | M.Sc Computer Science (ongoing)
+- 📫 Contact: chandrashekharsuthar.work@gmail.com
 
 ## Support My Work ❤️
 <a href="https://www.buymeacoffee.com/ChandrashekharSuthar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>
