@@ -4,11 +4,11 @@
 
 I build scalable, high-performance mobile applications that help businesses and startups turn ideas into real products and MVPs.
 
-💼 **Freelance Android Developer on Fiverr**
-🚀 **Focused on clean architecture and production-ready apps**
-🌱 **Currently exploring iOS and Flutter**
-🤝 **Open to collaborating on Android open-source projects**
-🎓 **B.Sc Computer Science | M.Sc Computer Science (ongoing)**
+💼 **Freelance Android Developer on Fiverr**<br>
+🚀 **Focused on clean architecture and production-ready apps**<br>
+🌱 **Currently exploring iOS and Flutter**<br>
+🤝 **Open to collaborating on Android open-source projects**<br>
+🎓 **B.Sc Computer Science | M.Sc Computer Science (ongoing)**<br>
 
 ## 🌐 Connect with me
 
