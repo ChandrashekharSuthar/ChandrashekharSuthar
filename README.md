@@ -16,45 +16,31 @@ I build scalable, high-performance mobile applications that help businesses and 
 
 ## 🌐 Connect With Me
 
-<table>
-  <tr>
-    <td align="center" width="66" bgcolor="#24292F">
-      <a href="YOUR_PORTFOLIO_URL">
-        <img src="https://cdn.simpleicons.org/googlechrome/FFFFFF" width="24" height="24" alt="Portfolio"/>
-      </a>
-    </td>
-    <td width="10"></td>
-    <td align="center" width="66" bgcolor="#000000">
-      <a href="https://x.com/sorrychandra">
-        <img src="https://cdn.simpleicons.org/x/FFFFFF" width="24" height="24" alt="X"/>
-      </a>
-    </td>
-    <td width="10"></td>
-    <td align="center" width="66" bgcolor="#0A66C2">
-      <a href="https://www.linkedin.com/in/chandrashekharsuthar/">
-        <img src="https://cdn.simpleicons.org/linkedin/FFFFFF" width="24" height="24" alt="LinkedIn"/>
-      </a>
-    </td>
-    <td width="10"></td>
-    <td align="center" width="66" bgcolor="#1DBF73">
-      <a href="https://www.fiverr.com/shekharsuthar07">
-        <img src="https://cdn.simpleicons.org/fiverr/FFFFFF" width="24" height="24" alt="Fiverr"/>
-      </a>
-    </td>
-    <td width="10"></td>
-    <td align="center" width="66" bgcolor="#171717">
-      <a href="https://contra.com/chandrashekhar_suthar_hlvntu6x">
-        <img src="https://cdn.simpleicons.org/contra/FFFFFF" width="24" height="24" alt="Contra"/>
-      </a>
-    </td>
-    <td width="10"></td>
-    <td align="center" width="66" bgcolor="#BB443E">
-      <a href="mailto:chandrashekharsuthar.work@gmail.com">
-        <img src="https://cdn.simpleicons.org/gmail/FFFFFF" width="24" height="24" alt="Email"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://cdn.simpleicons.org/googlechrome/FFFFFF" height="32" alt="Portfolio"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/sorrychandra">
+    <img src="https://cdn.simpleicons.org/x/FFFFFF" height="32" alt="X"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/chandrashekharsuthar/">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="32" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.fiverr.com/shekharsuthar07">
+    <img src="https://cdn.simpleicons.org/fiverr/1DBF73" height="32" alt="Fiverr"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://contra.com/chandrashekhar_suthar_hlvntu6x">
+    <img src="https://cdn.simpleicons.org/contra/FFFFFF" height="32" alt="Contra"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:chandrashekharsuthar.work@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="32" alt="Email"/>
+  </a>
+</p>
 
 ## Support My Work ❤️
 
@@ -65,31 +51,31 @@ I build scalable, high-performance mobile applications that help businesses and 
 ## Technologies I Use 👨‍💻
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" height="42" alt="Android"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" height="40" alt="Android"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" height="42" alt="Kotlin"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="42" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" alt="Java"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/jetpackcompose/4285F4" height="42" alt="Jetpack Compose"/>
+  <img src="https://cdn.simpleicons.org/jetpackcompose/4285F4" height="40" alt="Jetpack Compose"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="42" alt="Flutter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="40" alt="Flutter"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" height="42" alt="Dart"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" height="40" alt="Dart"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" height="42" alt="Firebase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" height="40" alt="Firebase"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="42" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="42" alt="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="40" alt="PHP"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="42" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="Python"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="42" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="Git"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="42" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="40" alt="Linux"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="42" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
 </p>
 
 ## My Stats 📈
