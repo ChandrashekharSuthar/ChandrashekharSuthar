@@ -1,44 +1,56 @@
-Hi, I'm Chandra Shekhar Suthar
+Chandra Shekhar Suthar
 
-Mobile App Developer | Freelance Android Developer
+I design and engineer mobile apps.
 
-I build scalable, high-performance mobile applications that help businesses and startups turn ideas into real products and MVPs.
+Mobile App Developer specializing in building scalable, high-performance Android applications. I help startups and businesses transform ideas into reliable digital products and MVPs.
 
-💼 Freelance Android Developer
+Android Development
 
-🚀 Focused on clean architecture and production-ready apps
+Clean Architecture & Scalable Applications
 
-🌱 Currently exploring iOS and Flutter
+Production-ready Mobile Solutions
 
-🤝 Open to collaborating on Android open-source projects
+Exploring iOS & Flutter
 
-🎓 B.Sc Computer Science | M.Sc Computer Science (ongoing)
-
-🌐 Connect With Me
+Connect
 
 <p align="left">
   <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-blue?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/chandrashekharsuthar/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="YOUR_FIVERR_URL">
-    <img src="https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
+  <a href="https://x.com/sorrychandra">
+    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" />
   </a>
-  <a href="YOUR_CONTRA_URL">
-    <img src="https://img.shields.io/badge/Contra-My%20Profile-000000?style=for-the-badge&logo=contra&logoColor=white" />
+  <a href="https://www.fiverr.com/shekharsuthar07">
+    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=flat-square&logo=fiverr&logoColor=white" />
   </a>
-  <a href="YOUR_X_URL">
-    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" />
+  <a href="https://contra.com/chandrashekhar_suthar_hlvntu6x">
+    <img src="https://img.shields.io/badge/Contra-000000?style=flat-square&logo=contra&logoColor=white" />
   </a>
   <a href="mailto:chandrashekharsuthar.work@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-Support My Work ❤️
+Technologies
 
-<a href="https://www.buymeacoffee.com/ChandrashekharSuthar" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174">
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=android,kotlin,java,firebase,python,git,linux" />
+</p>
+
+GitHub Activity
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChandrashekharSuthar&theme=transparent&hide_border=true" height="160" />
+</p>
+
+Support My Work
+
+<a href="https://www.buymeacoffee.com/ChandrashekharSuthar">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="41" width="174" />
 </a>
+
+B.Sc. Computer Science · M.Sc. Computer Science (Ongoing)
