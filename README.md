@@ -18,27 +18,27 @@ I build scalable, high-performance mobile applications that help businesses and 
 
 <p align="left">
   <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/-%20-30363D?style=for-the-badge&logo=googlechrome&logoColor=white" width="48" height="48" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/%20-30363D?style=for-the-badge&logo=googlechrome&logoColor=white" height="48" alt="Portfolio"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://x.com/sorrychandra">
-    <img src="https://img.shields.io/badge/-%20-000000?style=for-the-badge&logo=x&logoColor=white" width="48" height="48" alt="X"/>
+    <img src="https://img.shields.io/badge/%20-000000?style=for-the-badge&logo=x&logoColor=white" height="48" alt="X"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/chandrashekharsuthar/">
-    <img src="https://img.shields.io/badge/-%20-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="48" height="48" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/%20-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="48" alt="LinkedIn"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.fiverr.com/shekharsuthar07">
-    <img src="https://img.shields.io/badge/-%20-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" width="48" height="48" alt="Fiverr"/>
+    <img src="https://img.shields.io/badge/%20-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" height="48" alt="Fiverr"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://contra.com/chandrashekhar_suthar_hlvntu6x">
-    <img src="https://img.shields.io/badge/-%20-171717?style=for-the-badge&logo=contra&logoColor=white" width="48" height="48" alt="Contra"/>
+    <img src="https://img.shields.io/badge/%20-171717?style=for-the-badge&logo=contra&logoColor=white" height="48" alt="Contra"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:chandrashekharsuthar.work@gmail.com">
-    <img src="https://img.shields.io/badge/-%20-BB443E?style=for-the-badge&logo=gmail&logoColor=white" width="48" height="48" alt="Email"/>
+    <img src="https://img.shields.io/badge/%20-BB443E?style=for-the-badge&logo=gmail&logoColor=white" height="48" alt="Email"/>
   </a>
 </p>
 
@@ -51,63 +51,37 @@ I build scalable, high-performance mobile applications that help businesses and 
 ## Technologies I Use 👨‍💻
 
 <p align="left">
-  <a href="https://developer.android.com/">
-    <img src="https://skillicons.dev/icons?i=android" width="48" height="48" alt="Android"/>
-  </a>
-  &nbsp;
-  <a href="https://kotlinlang.org/">
-    <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin"/>
-  </a>
-  &nbsp;
-  <a href="https://www.java.com/">
-    <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java"/>
-  </a>
-  &nbsp;
-  <a href="https://developer.android.com/compose">
-    <img src="https://skillicons.dev/icons?i=compose" width="48" height="48" alt="Jetpack Compose"/>
-  </a>
-  &nbsp;
-  <a href="https://flutter.dev/">
-    <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter"/>
-  </a>
-  &nbsp;
-  <a href="https://dart.dev/">
-    <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart"/>
-  </a>
-  &nbsp;
-  <a href="https://firebase.google.com/">
-    <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase"/>
-  </a>
-  &nbsp;
-  <a href="https://www.mysql.com/">
-    <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL"/>
-  </a>
-  &nbsp;
-  <a href="https://www.php.net/">
-    <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP"/>
-  </a>
-  &nbsp;
-  <a href="https://www.python.org/">
-    <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"/>
-  </a>
-  &nbsp;
-  <a href="https://git-scm.com/">
-    <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linux.org/">
-    <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux"/>
-  </a>
-  &nbsp;
-  <a href="https://code.visualstudio.com/">
-    <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code"/>
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" height="42" alt="Android"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" height="42" alt="Kotlin"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="42" alt="Java"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/jetpackcompose/4285F4" height="42" alt="Jetpack Compose"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="42" alt="Flutter"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" height="42" alt="Dart"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" height="42" alt="Firebase"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="42" alt="MySQL"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="42" alt="PHP"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="42" alt="Python"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="42" alt="Git"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="42" alt="Linux"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="42" alt="VS Code"/>
 </p>
 
 ## My Stats 📈
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChandrashekharSuthar&theme=transparent&hide_border=true&ring=C9D1D9&fire=C9D1D9&currStreakLabel=C9D1D9&currStreakNum=FFFFFF&sideLabels=C9D1D9&sideNums=FFFFFF&dates=8B949E" height="180" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChandrashekharSuthar&theme=transparent&hide_border=true&ring=8B949E&fire=8B949E&currStreakLabel=C9D1D9&currStreakNum=FFFFFF&sideLabels=C9D1D9&sideNums=FFFFFF&dates=8B949E" height="180" alt="GitHub Streak Stats"/>
 </p>
 
 <!---
