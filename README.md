@@ -18,27 +18,27 @@ I build scalable, high-performance mobile applications that help businesses and 
 
 <p align="left">
   <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-30363D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/%20-24292F?style=for-the-badge&logo=googlechrome&logoColor=white" height="48" alt="Portfolio"/>
   </a>
   &nbsp;
   <a href="https://x.com/sorrychandra">
-    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+    <img src="https://img.shields.io/badge/%20-000000?style=for-the-badge&logo=x&logoColor=white" height="48" alt="X"/>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/chandrashekharsuthar/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/%20-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="48" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="https://www.fiverr.com/shekharsuthar07">
-    <img src="https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"/>
+    <img src="https://img.shields.io/badge/%20-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" height="48" alt="Fiverr"/>
   </a>
   &nbsp;
   <a href="https://contra.com/chandrashekhar_suthar_hlvntu6x">
-    <img src="https://img.shields.io/badge/Contra-My%20Profile-171717?style=for-the-badge&logo=contra&logoColor=white" alt="Contra"/>
+    <img src="https://img.shields.io/badge/%20-171717?style=for-the-badge&logo=contra&logoColor=white" height="48" alt="Contra"/>
   </a>
   &nbsp;
   <a href="mailto:chandrashekharsuthar.work@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-BB443E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/%20-BB443E?style=for-the-badge&logo=gmail&logoColor=white" height="48" alt="Email"/>
   </a>
 </p>
 
@@ -51,39 +51,65 @@ I build scalable, high-performance mobile applications that help businesses and 
 ## Technologies I Use 👨‍💻
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+  <a href="https://developer.android.com/">
+    <img src="https://skillicons.dev/icons?i=android" width="48" height="48" alt="Android"/>
+  </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <a href="https://kotlinlang.org/">
+    <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin"/>
+  </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <a href="https://www.java.com/">
+    <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java"/>
+  </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/>
+  <a href="https://developer.android.com/compose">
+    <img src="https://skillicons.dev/icons?i=compose" width="48" height="48" alt="Jetpack Compose"/>
+  </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <a href="https://flutter.dev/">
+    <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter"/>
+  </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+  <a href="https://dart.dev/">
+    <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart"/>
+  </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <a href="https://firebase.google.com/">
+    <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase"/>
+  </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <a href="https://www.mysql.com/">
+    <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL"/>
+  </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <a href="https://www.php.net/">
+    <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP"/>
+  </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <a href="https://www.python.org/">
+    <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"/>
+  </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <a href="https://git-scm.com/">
+    <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/>
+  </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <a href="https://www.linux.org/">
+    <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux"/>
+  </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code"/>
+  </a>
 </p>
 
 ## My Stats 📈
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChandrashekharSuthar&theme=transparent&hide_border=true&ring=F78166&fire=F78166&currStreakLabel=C9D1D9&currStreakNum=FFFFFF&sideLabels=C9D1D9&sideNums=FFFFFF&dates=8B949E" height="180" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChandrashekharSuthar&theme=transparent&hide_border=true&ring=C9D1D9&fire=C9D1D9&currStreakLabel=C9D1D9&currStreakNum=FFFFFF&sideLabels=C9D1D9&sideNums=FFFFFF&dates=8B949E" height="180" alt="GitHub Streak Stats"/>
 </p>
 
 <!---
-ChandrashekharSuthar/ChandrashekharSuthar is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
+ChandrashekharSuthar/ChandrashekharSuthar is a ✨ special ✨ repository because this README.md appears on your GitHub profile.
 --->
