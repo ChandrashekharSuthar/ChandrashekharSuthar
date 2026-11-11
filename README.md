@@ -18,27 +18,27 @@ I build scalable, high-performance mobile applications that help businesses and 
 
 <p align="left">
   <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://cdn.simpleicons.org/googlechrome/FFFFFF" height="32" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-Visit-30363D?style=for-the-badge" height="36" alt="Portfolio"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="https://x.com/sorrychandra">
-    <img src="https://cdn.simpleicons.org/x/FFFFFF" height="32" alt="X"/>
+    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge" height="36" alt="X"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.linkedin.com/in/chandrashekharsuthar/">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="32" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" height="36" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.fiverr.com/shekharsuthar07">
-    <img src="https://cdn.simpleicons.org/fiverr/1DBF73" height="32" alt="Fiverr"/>
+    <img src="https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=for-the-badge" height="36" alt="Fiverr"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="https://contra.com/chandrashekhar_suthar_hlvntu6x">
-    <img src="https://cdn.simpleicons.org/contra/FFFFFF" height="32" alt="Contra"/>
+    <img src="https://img.shields.io/badge/Contra-Profile-171717?style=for-the-badge" height="36" alt="Contra"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="mailto:chandrashekharsuthar.work@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="32" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Contact-BB443E?style=for-the-badge" height="36" alt="Email"/>
   </a>
 </p>
 
