@@ -2,19 +2,15 @@
 
 ### I design and engineer mobile apps.
 
-I build scalable, high-performance mobile applications that help businesses and startups turn ideas into real products and MVPs.
+## I build scalable, high-performance mobile applications that help businesses and startups turn ideas into real products and MVPs.
 
-💼 Freelance Android Developer on Fiverr
+## 💼 Freelance Android Developer on Fiverr
+## 🚀 Focused on clean architecture and production-ready apps
+## 🌱 Currently exploring iOS and Flutter
+## 🤝 Open to collaborating on Android open-source projects
+## 🎓 B.Sc Computer Science | M.Sc Computer Science (ongoing)
 
-🚀 Focused on clean architecture and production-ready apps
-
-🌱 Currently exploring iOS and Flutter
-
-🤝 Open to collaborating on Android open-source projects
-
-🎓 B.Sc Computer Science | M.Sc Computer Science (ongoing)
-
-## 🌐 Connect With Me
+# 🌐 Connect with me via
 
 <p align="left">
   <a href="YOUR_PORTFOLIO_URL">
@@ -42,13 +38,13 @@ I build scalable, high-performance mobile applications that help businesses and 
   </a>
 </p>
 
-## Support My Work ❤️
+# ❤️ Support My Work 
 
 <a href="https://www.buymeacoffee.com/ChandrashekharSuthar" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"/>
 </a>
 
-## Technologies I Use 👨‍💻
+# 👨‍💻 Technologies I Use 
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" height="40" alt="Android"/>
@@ -78,7 +74,7 @@ I build scalable, high-performance mobile applications that help businesses and 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
 </p>
 
-## My Stats 📈
+# 📈 My Stats 
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChandrashekharSuthar&theme=transparent&hide_border=true&ring=8B949E&fire=8B949E&currStreakLabel=C9D1D9&currStreakNum=FFFFFF&sideLabels=C9D1D9&sideNums=FFFFFF&dates=8B949E" height="180" alt="GitHub Streak Stats"/>
