@@ -15,10 +15,10 @@ I build scalable, high-performance mobile applications that help businesses and 
 
 <p align="left">
   <a href="YOUR_PORTFOLIO_URL" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-555555?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-30363D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://x.com/sorrychandra" target="_blank">
-    <img src="https://img.shields.io/badge/X-Follow%20Me-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
   <a href="https://www.linkedin.com/in/chandrashekharsuthar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -27,49 +27,66 @@ I build scalable, high-performance mobile applications that help businesses and 
     <img src="https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"/>
   </a>
   <a href="https://contra.com/chandrashekhar_suthar_hlvntu6x" target="_blank">
-    <img src="https://img.shields.io/badge/Contra-My%20Profile-000000?style=for-the-badge&logo=contra&logoColor=white" alt="Contra"/>
+    <img src="https://img.shields.io/badge/Contra-My%20Profile-171717?style=for-the-badge&logo=contra&logoColor=white" alt="Contra"/>
   </a>
   <a href="mailto:chandrashekharsuthar.work@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-BB443E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 ## Support My Work ❤️
 
-<a href="https://www.buymeacoffee.com/ChandrashekharSuthar" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174">
-</a>
-
-## Technologies I Use 👨‍💻
-
 <p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  </a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <a href="https://www.buymeacoffee.com/ChandrashekharSuthar" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="45"/>
   </a>
 </p>
 
+## Technologies I Use 👨‍💻
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=android" width="38" height="38" alt="Android"/>
+      <br/><sub><b>Android</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=kotlin" width="38" height="38" alt="Kotlin"/>
+      <br/><sub><b>Kotlin</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=java" width="38" height="38" alt="Java"/>
+      <br/><sub><b>Java</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=firebase" width="38" height="38" alt="Firebase"/>
+      <br/><sub><b>Firebase</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=python" width="38" height="38" alt="Python"/>
+      <br/><sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=git" width="38" height="38" alt="Git"/>
+      <br/><sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=linux" width="38" height="38" alt="Linux"/>
+      <br/><sub><b>Linux</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=github" width="38" height="38" alt="GitHub"/>
+      <br/><sub><b>GitHub</b></sub>
+    </td>
+  </tr>
+</table>
+
 ## My Stats 📈
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChandrashekharSuthar&" alt="ChandrashekharSuthar" height="200"/>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChandrashekharSuthar&theme=transparent&hide_border=true&ring=F78166&fire=F78166&currStreakLabel=F78166&sideLabels=C9D1D9&dates=8B949E" height="180" alt="GitHub Streak Stats"/>
 </p>
 
 <!---
