@@ -16,31 +16,45 @@ I build scalable, high-performance mobile applications that help businesses and 
 
 ## 🌐 Connect With Me
 
-<p align="left">
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/%20-30363D?style=for-the-badge&logo=googlechrome&logoColor=white" height="48" alt="Portfolio"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://x.com/sorrychandra">
-    <img src="https://img.shields.io/badge/%20-000000?style=for-the-badge&logo=x&logoColor=white" height="48" alt="X"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/chandrashekharsuthar/">
-    <img src="https://img.shields.io/badge/%20-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="48" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.fiverr.com/shekharsuthar07">
-    <img src="https://img.shields.io/badge/%20-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" height="48" alt="Fiverr"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://contra.com/chandrashekhar_suthar_hlvntu6x">
-    <img src="https://img.shields.io/badge/%20-171717?style=for-the-badge&logo=contra&logoColor=white" height="48" alt="Contra"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:chandrashekharsuthar.work@gmail.com">
-    <img src="https://img.shields.io/badge/%20-BB443E?style=for-the-badge&logo=gmail&logoColor=white" height="48" alt="Email"/>
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center" width="66" bgcolor="#24292F">
+      <a href="YOUR_PORTFOLIO_URL">
+        <img src="https://cdn.simpleicons.org/googlechrome/FFFFFF" width="24" height="24" alt="Portfolio"/>
+      </a>
+    </td>
+    <td width="10"></td>
+    <td align="center" width="66" bgcolor="#000000">
+      <a href="https://x.com/sorrychandra">
+        <img src="https://cdn.simpleicons.org/x/FFFFFF" width="24" height="24" alt="X"/>
+      </a>
+    </td>
+    <td width="10"></td>
+    <td align="center" width="66" bgcolor="#0A66C2">
+      <a href="https://www.linkedin.com/in/chandrashekharsuthar/">
+        <img src="https://cdn.simpleicons.org/linkedin/FFFFFF" width="24" height="24" alt="LinkedIn"/>
+      </a>
+    </td>
+    <td width="10"></td>
+    <td align="center" width="66" bgcolor="#1DBF73">
+      <a href="https://www.fiverr.com/shekharsuthar07">
+        <img src="https://cdn.simpleicons.org/fiverr/FFFFFF" width="24" height="24" alt="Fiverr"/>
+      </a>
+    </td>
+    <td width="10"></td>
+    <td align="center" width="66" bgcolor="#171717">
+      <a href="https://contra.com/chandrashekhar_suthar_hlvntu6x">
+        <img src="https://cdn.simpleicons.org/contra/FFFFFF" width="24" height="24" alt="Contra"/>
+      </a>
+    </td>
+    <td width="10"></td>
+    <td align="center" width="66" bgcolor="#BB443E">
+      <a href="mailto:chandrashekharsuthar.work@gmail.com">
+        <img src="https://cdn.simpleicons.org/gmail/FFFFFF" width="24" height="24" alt="Email"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## Support My Work ❤️
 
